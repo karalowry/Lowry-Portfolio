@@ -1,5 +1,5 @@
 # Lowry-Portfolio
-This is my public portfolio for the Telling Stories with Data class at Carnegie Mellon University
+This is my public portfolio for the Telling Stories with Data class at Carnegie Mellon University.
 
 # About Me
 My name is Kara Lowry and my pronouns are she/her. I am a first-year student in the Masters of Science in Public Policy and Management program. I am originally from outside of Louisville, Kentucky, but I moved to Pittsburgh in 2019 for the Coro Fellowship in Public Affairs. I have two cats named Azula and Mai that I got during quarantine so they have a little bit of separation anxiety. I love to read, cook new recipes, and watch reality TV.
