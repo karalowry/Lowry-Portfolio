@@ -13,4 +13,4 @@ My name is Kara Lowry and my pronouns are she/her. I am a first-year student in 
  I am interested in learning more about how to create data visualization that are easy to understand so that I can better explain and express why we need major changes in multiple sectors of our society. Once I graduate I hope to be working in some capacity to make policies that are more inclusive and work to build up the most underserved people in our communities. I am most interested in social policy, criminal justice reform, and education policy.
  
 # Portfolio
-[General Government Debt, 2019}(/Data Visualization One.md)
+[General Government Debt, 2019](/DataVisualization1.md)
