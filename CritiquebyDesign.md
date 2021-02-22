@@ -45,7 +45,7 @@ Friend 1: "It is hard to compare White to White and BLack to Black."
    
 Friend 2: "I almost want a comparison of men and women, and if there are disparities between Black women and White women."
 
-**Bar Chart**
+## **Bar Chart**
 
 **1. Tell me what you think this is?**
 
@@ -71,7 +71,7 @@ Friend 1: "The shading is confusing. I want to compare the shaded parts to each 
   
 Friend 2: "I would put the population on the bottom, like the descriptors. So the legend would be White and Black and the axis would be population. I would also include other populations."
   
-**Stacked Bar Chart**
+## **Stacked Bar Chart**
   
 **1. Tell me what you think this is?**
 
