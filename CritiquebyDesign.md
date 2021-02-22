@@ -12,7 +12,7 @@ I chose this visualization because I think the information is important for peop
 
 # Testing the Wireframes
 
-After sketching my ideas, I asked two friends multiple questions about each of the sketches. Their answers for each sketch are below. (After the second sketch, I stopped asking about the intended audience because they knew the charts were showing the same thing and for the same purpose.)
+After sketching my ideas, I asked two friends multiple questions about each of the sketches. Their answers for each sketch are below.
 
 **Pie Chart**
 
@@ -85,7 +85,7 @@ After sketching my ideas, I asked two friends multiple questions about each of t
   
   Friend 2: "I think this would be more advanced and maybe for lawmakers."
   
-3. Is there anything you would change or do differently?
+4. Is there anything you would change or do differently?
 
   Friend 1: "I think it just confused me that the order you stacked them in was different. It made it hard to compare."
   
