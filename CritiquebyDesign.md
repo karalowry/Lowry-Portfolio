@@ -11,7 +11,7 @@ I chose this visualization because I think the information is important for peop
 
 I sketched out three possible graph types to better communicate the data: Pie Charts, Bar Charts, and Stacked Bar Charts.
 
-![Sketches of my pie charts, bar chart, and stacked bar chart.](Wireframe.png)
+![Sketches of my pie charts, bar chart, and stacked bar chart.](Wireframe.jpg)
 
 Sketching the wireframe, I realized why the original creators also showed the Latinx population in the visualization. It makes the numbers much closer to equaling 100%, which makes the data more understandable and leaves the user with fewer questions. I included only the Latinx in the pie chart because it would not be as noticeable that it did not equal 100% than in the stacked bar chart where I added the category "Other" to account for the remainder of the percentage. After creating my sketches, I asked two of my friends what their thoughts were on all three sketches.
 
@@ -19,27 +19,27 @@ Sketching the wireframe, I realized why the original creators also showed the La
 
 I asked my friends four questions about each sketch, and their answers for each sketch are below.
 
-**Pie Chart**
+## **Pie Chart**
 
-1. Tell me what you think this is?
+**1. Tell me what you think this is?**
 
 Friend 1: "A comparison of the U.S. population and the death row population."
   
 Friend 2: "It would be looking at the population of the U.S. compared to the population of the death row."
   
-2. Can you describe to me what this is telling you?
+**2. Can you describe to me what this is telling you?**
 
 Friend 1: "That there are a larger percentage of White people in the U.S. then on death row, and a larger percentage of POC on death row than in the U.S."
   
 Friend 2: "It is showing a disparaity between Black and White death row populations. It is pretty evident that Black individuals are more likely to be put on death row."
   
-3. Who do you think the intended audience is?
+**3. Who do you think the intended audience is?**
 
 Friend 1: "I don't know. People? Lawmakers?"
   
 Friend 2: "I think most people should see this. I would see this in a college criminology or sociology class."
   
-4. Is there anything you would change or do differently?
+**4. Is there anything you would change or do differently?**
 
 Friend 1: "It is hard to compare White to White and BLack to Black."
    
