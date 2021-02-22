@@ -105,7 +105,7 @@ Friend 2: "Maybe the bar chart because I think it is the least complicated way t
 
 # Insight From User Research
 
-From from my friends' feedback, I learned that they get the point of the data from all three sketches. They offered some points of confusion and desire for clarity. For the pie chart, my friend made the point that it is harder to compare between races on the two pie charts. For the bar chart, it seemed they were both confused by the race being on the x-axis and the populations as the legend. The suggestion to switch those made a lot of sense, and is probably not something I would have realized on my own. For the stacked bars, they liked the detail, but the differing order was confusing as well as the labeling, which was limited due to only using a pencil. Using the feedback, I created all three charts in Flourish in order to show them a digital version and gather their opinion.
+From my friends' feedback, I learned that they get the point of the data from all three sketches. They offered some points of confusion and desire for clarity. For the pie chart, my friend made the point that it is harder to compare between races on the two pie charts. For the bar chart, it seemed they were both confused by the race being on the x-axis and the populations as the legend. The suggestion to switch those made a lot of sense, and is probably not something I would have realized on my own. For the stacked bars, they liked the detail, but the differing order was confusing as well as the labeling, which was limited due to only using a pencil. Using the feedback, I created all three charts in Flourish in order to show them a digital version and gather their opinion.
 
 # Digital Versions
 
