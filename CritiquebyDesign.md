@@ -18,9 +18,9 @@ After sketching my ideas, I asked two friends multiple questions about each of t
 
 1. Tell me what you think this is?
 
-  Friend 1: "A comparison of the U.S. population and the death row population."
+       Friend 1: "A comparison of the U.S. population and the death row population."
   
-  Friend 2: "It would be looking at the population of the U.S. compared to the population of the death row."
+       Friend 2: "It would be looking at the population of the U.S. compared to the population of the death row."
   
 2. Can you describe to me what this is telling you?
 
