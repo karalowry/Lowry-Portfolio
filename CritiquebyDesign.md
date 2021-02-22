@@ -109,17 +109,18 @@ From my friends' feedback, I learned that they get the point of the data from al
 
 # Digital Versions
 
-**Pie Chart**
+## **Pie Chart**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360668"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Bar Chart**
+## **Bar Chart**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Stacked Bars**
+## **Stacked Bars**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360553"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 After showing my friends the digital versions, both of them said they liked the pie chart the best, which was interesting since neither of them mentioned it when I showed them the sketches. My first friend said it could be because of the colors. My friends asked me which one I liked the best, and I said that the bar chart gets the point across with the least amount of stuff, which is a goal of effective data visualization. I think if I had to choose one to present for this class, I would show the bar chart since it does communicate the point with the least amount of stuff, but if I were to present to normal people, based on the feedback, I would show the pie charts, surprisingly.
 
