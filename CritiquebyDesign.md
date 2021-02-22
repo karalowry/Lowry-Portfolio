@@ -103,3 +103,7 @@ Friend 2: "Maybe the bar chart because I think it is the least complicated way t
 # Final Visualization
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360553"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360668"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
