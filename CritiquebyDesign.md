@@ -11,7 +11,7 @@ I chose this visualization because I think the information is important for peop
 
 I sketched out three possible graph types to better communicate the data: Pie Charts, Bar Charts, and Stacked Bar Charts.
 
-![Sketches of pie charts, bar chart, and stacked bars.](Wireframe.jpg)
+![Sketches of pie charts, bar chart, and stacked bars.](WireframeCorrect.jpg)
 
 Sketching the wireframe, I realized why the original creators also showed the Latinx population in the visualization. It makes the numbers much closer to equaling 100%, which makes the data more understandable and leaves the user with fewer questions. I included only the Latinx in the pie chart because it would not be as noticeable that it did not equal 100% than in the stacked bar chart where I added the category "Other" to account for the remainder of the percentage. After creating my sketches, I asked two of my friends what their thoughts were on all three sketches.
 
