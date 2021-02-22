@@ -10,6 +10,8 @@ I chose this visualization because I think the information is important for peop
 # Wireframes
 
 
+
+
 # Testing the Wireframes
 
 After sketching my ideas, I asked two friends multiple questions about each of the sketches. Their answers for each sketch are below.
@@ -97,3 +99,7 @@ Friend 2: "I think this chart might be the most thorough, and I think it being s
 Friend 1: "I think the last one does the best job of comparison, but I think the bar chart with some changes would be the best."
 
 Friend 2: "Maybe the bar chart because I think it is the least complicated way to compare them."
+
+# Final Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
