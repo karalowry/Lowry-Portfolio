@@ -16,3 +16,5 @@ My name is Kara Lowry and my pronouns are she/her. I am a first-year student in 
 [Assignment: Visualizing Government Debt](/DataVisualization1.md)
 
 [Assignment: Critique by Design](/CritiquebyDesign.md)
+
+[Final Project: Affordable Housing Crisis in America](/FinalProject.md)
