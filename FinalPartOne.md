@@ -12,7 +12,7 @@ I was inspired to dive into affordable housing after reading Evicted by Matthew 
 
 I utilized Balsamiq Wireframes to create my initial sketches.
 
-My first two sketches are to illustrate that our current program is not serving near as many people as are in need of rental assistance. The first is a visualization of the percent of eligible people in the United States actually receive a voucher. I wanted to use a simple, easy understand visualization to get the point across right away.
+My first two sketches are to illustrate that our current program is not serving near as many people as are in need of rental assistance. These would be in the part of the story focused on showing the problems with our current system. The first is a visualization of the percent of eligible people in the United States actually receive a voucher. I wanted to use a simple, easy understand visualization to get the point across right away.
 
 ![Sketch of % of eligible people that receive a housing voucher](SketchOne.png)
 
@@ -20,11 +20,11 @@ My second sketch breaks down the percent of eligible people in each state that a
 
 ![Sketch of % of eligible people that receive a housing voucher in each state](SketchTwo.png)
 
-My third sketch contains two line graphs. The first compares Section 8 voucher funding over time and the funding over time for another government program. I have not decided which program I want to compare it to, but I am trying to illustrate how the Section 8 progarm does not get adequate funding compared to other programs that may not have the same importance. The second line graph is a comparison of section 8 voucher funding over time and the increasing need for affordable housing. I am not sure if I will use both of these ideas or just one, but I think both can be important for illustrating that the federal government does not provide enough resources for affordable housing, even though it is one of the most important needs low-income families have.
+My third sketch contains two line graphs. The first compares Section 8 voucher funding over time and the funding over time for another government program. I have not decided which program I want to compare it to, but I am trying to illustrate how the Section 8 progarm does not get adequate funding compared to other programs that may not have the same importance. This would also be in the part of the story going through the problems with the current system. The second line graph is a comparison of section 8 voucher funding over time and the increasing need for affordable housing. I am not sure if I will use both of these ideas or just one, but I think both can be important for illustrating that the federal government does not provide enough resources for affordable housing, even though it is one of the most important needs low-income families have.
 
 ![Sketch of line graphs comparing Section 8 spending to other program spending and the need for Section 8](SketchThree.png)
 
-My fourth sketch is a bar chart that compares the current spending for Section 8 vouchers, the estimated spending needed for a universal housing program in the United States, and how much the United Kingdom spends on their universal housing program. I am wanting to show how large of an increase will be necessary to expand the voucher program to be universal, and show how it compares to other countries with similar programs. My goal is to show that if other countries can do it, we can too.
+My fourth sketch is a bar chart that compares the current spending for Section 8 vouchers, the estimated spending needed for a universal housing program in the United States, and how much the United Kingdom spends on their universal housing program. This wouuld be in the section talking about a universal housing program. I am wanting to show how large of an increase will be necessary to expand the voucher program to be universal, and show how it compares to other countries with similar programs. My goal is to show that if other countries can do it, we can too.
 
 ![Sketch of bar chart comparing current Section 8 spending, needed Section 8 funding for universal program, and the UK's program spending](SketchFour.png)
 
