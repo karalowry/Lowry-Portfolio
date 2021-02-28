@@ -13,8 +13,9 @@ I was inspired to dive into affordable housing after reading Evicted by Matthew 
 
 # Data
 
-I will be utilizing the Census Bureau's 2019 American Community Survey data regarding income levels in each state, as well as the Center on Budget and Policy Priorities' 2019 National and State Housing Data. I will use these two data sets in combination to show the ratio between how many people in each state qualify for Section 8 vouchers and how many actually receive it. I can also use the Center on Budget and Policy Priorities' data to show how many people in the United States receive assistance at all, and how much funding each state gets for housing assistance. I want to show how limited our program is by showing how few of qualified people actually receive assistance in each state due to a lack of funding.
+I will be utilizing the United States Census Bureau's 2019 American Community Survey data regarding income levels in each state, as well as the Center on Budget and Policy Priorities' 2019 National and State Housing Data. I will use these two data sets in combination to show the ratio between how many people in each state qualify for Section 8 vouchers and how many actually receive it. I can also use the Center on Budget and Policy Priorities' data to show how many people in the United States receive assistance at all, and how much funding each state gets for housing assistance. I want to show how limited our program is by showing how few of qualified people actually receive assistance in each state due to a lack of funding.
 
-[Census Data: American Community Survey, Income in the Past 12 Months (In 2019 Inflation-Adjusted Dollars](State Income Data 2019.xlsx)
+[United States Census Bureau Data: American Community Survey, Income in the Past 12 Months (In 2019 Inflation-Adjusted Dollars)](State Income Data 2019.xlsx)
+[Center on Budget and Policy Priorities: 2019 National and State Housing Data](Section 8 Housing Data by State 2019.xlsx)
 
 # Methods and Mediums
