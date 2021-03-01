@@ -12,7 +12,7 @@ I was inspired to dive into affordable housing after reading "Evicted" by Matthe
 
 # Initial Sketches
 
-I utilized Balsamiq Wireframes to create my initial sketches.
+I utilized Balsamiq Wireframes and pen/paper to create my initial sketches.
 
 My first two sketches are to illustrate that our current program is not serving near as many people as are in need of rental assistance. These would be in the part of the story focused on showing the problems with our current system. The first is a visualization of the percent of eligible people in the United States actually receive a voucher. I wanted to use a simple, easy-to-understand visualization to get the point across the right away.
 
