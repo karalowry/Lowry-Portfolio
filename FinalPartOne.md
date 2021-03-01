@@ -24,11 +24,12 @@ My second sketch breaks down the percent of eligible people in each state that a
 
 My third sketch contains two line graphs. The first compares Section 8 voucher funding over time and the funding over time for another government program. I have not decided which program I want to compare it to, but I am trying to illustrate how the Section 8 program gets inadequate funding compared to other programs that may not have as much of an impact on people's lives. This would also be in the part of the story going through the problems with the current system. The second line graph is a comparison of section 8 voucher funding over time and the increasing need for affordable housing. I am not sure if I will use both of these ideas or just one, but I think both can be important for illustrating that the federal government does not provide enough resources for affordable housing, even though it is one of the most important needs low-income families have.
 
-![Sketch of line graphs comparing Section 8 spending to other program spending and the need for Section 8](SketchThree.png)
+![Sketch of line graphs comparing Section 8 spending to other program spending](Sketch3.png)
+![Sketch of line graphs comparing Section 8 spending to need](Sketch3(1).png)
 
 My fourth sketch is a bar chart that compares the current spending for Section 8 vouchers, the estimated spending needed for a universal housing program in the United States, and how much the United Kingdom spends on their universal housing program. This would be in the section talking about a universal housing program. I am wanting to show how large of an increase in spending will be necessary to expand the voucher program to be universal, and show how it compares to other countries with similar programs. My goal is to show that if other countries can do it, we can too.
 
-![Sketch of bar chart comparing current Section 8 spending, needed Section 8 funding for universal program, and the UK's program spending](SketchFour.png)
+![Sketch of bar chart comparing current Section 8 spending, needed Section 8 funding for universal program, and the UK's program spending](Sketch4.png)
 
 There are other graphics that I will need to make in order to finish my story. I will need to do more research to formulate a graphic to show how important housing is for general wellbeing. I also imagine as I write my story there will be other times that I can use a simple graphic to draw attention to the main points I am trying to make. For example, when discussing the universal housing program, I could use a simple graphic showing that 100% of eligible people would receive a housing voucher under the program.
 
