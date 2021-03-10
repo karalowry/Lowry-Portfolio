@@ -22,9 +22,14 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 | Goal | Question |
 | ---| |---|
-| Visual Appeal | | After scrolling through, what did you like about how the project looked? What did you not like? |
+| Visual Appeal | After scrolling through, what did you like about how the project looked? What did you not like? |
+| Clarity of Visualizations | Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? |
+| Flow of the Story | Did the order of the sections make sense to you? |
+| Call to Action | After scrolling through, would you be inclined to do one of the call to actions? |
+| Additional Insights | Is there anything else you would change or you think needs improvement? |
 
 ## Interviewee Responses
+
 
 ## Interview Findings
 
