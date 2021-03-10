@@ -64,11 +64,11 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 | Question | Response |
 | --- | --- |
-| After scrolling through, what did you like about how the project looked? What did you not like? |  |
-| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? |  |
-| Did the order of the sections make sense to you? | |
-| After scrolling through, would you be inclined to do one of the call to actions? |  |
-| Is there anything else you would change or think needs improvement? |  |
+| After scrolling through, what did you like about how the project looked? What did you not like? |"I love the graphics, they were very helpful. The picture on the first way to help needs to be moved under the 1. for consistency. Other than the pieces that need more content the flow is nice and the structure of information makes sense."  |
+| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? | "I don't know what the numbers mean on the map." |
+| Did the order of the sections make sense to you? | "Yes, they did." |
+| After scrolling through, would you be inclined to do one of the call to actions? | "Definitely spread the word. I like talking to people about problems. I rarely call representatives, but I should. I sometimes think it is worthless. As much as I think this topic is important, I think there are other things I identify with more so I probably would not get involve with a renter's rights group." |
+| Is there anything else you would change or think needs improvement? | "Maybe under the renter's rights group give them a way to find one in their area." |
 
 ## Interview Takeaways
 
