@@ -1,6 +1,6 @@
 # Final Part Two: Storyboarding and User Research
 
-This is part two of my final project. I will walk through my storyboard, my interview process for user research, and my findings from the interviews.
+This is part two of my final project. I will walk through my storyboard, my user research protocol, and my next steps based on my user research.
 
 # Storyboard
 
@@ -56,6 +56,20 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 | After scrolling through, would you be inclined to do one of the call to actions? |  |
 | Is there anything else you would change or think needs improvement? |  |
 
-## Interview Findings
+**Interviewee Three**
 
-## Next Steps
+| Question | Response |
+| --- | --- |
+| After scrolling through, what did you like about how the project looked? What did you not like? |  |
+| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? |  |
+| Did the order of the sections make sense to you? | |
+| After scrolling through, would you be inclined to do one of the call to actions? |  |
+| Is there anything else you would change or think needs improvement? |  |
+
+## Interview Takeaways
+
+**Interviewee One:** My first takeaway from this interview was that the flow and design of the project works for them, but they would like some more distinction between the sections. My second takeaway was that the data visualization comparing funding of Section 8 Housing Choice Vouchers to SNAP and Pell Grant might seem like I am saying those programs are overfunded, or funds should be transferred to Section 8 from those programs. My thid takeaway is that some people may not be interested in calling their representatives.
+
+# Next Steps
+
+First,  I am going to add all the text needed to complete the project. Then, I am going to try to make the sections more distinct in my project. I also am going to spend some time thinking through my visualization comparing spending on Section 8 to SNAP and Pell Grants. I think I just need to add some more context, but I will probably asked Interviewee One for their feedback once I make some changes. Additionally, I am going to change the first call to action to include emailing representatives instead of only calling them. I think this makes it more likely people will do it because emailing is a lot less intimidating than talking on the phone.
