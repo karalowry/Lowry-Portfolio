@@ -18,7 +18,11 @@ The target audience for my project is people who are interested in learning more
 
 My sample of interviewees fit this criteria. My first interviewee is a graduate student studying public health who knows access to affordable, stable housing is vital, but does not have expertise in the field. My second interviewee is a graduate student studying public policy who is interested in community development. Affordable housing is something they make work on in the future, so they want to take the time now to learn as much as they can about the subject. My third interviewee is a graduate student studying student affairs. While affordable housing does not relate directly to their field of study, this person is passionate about making a difference in our country and is aware housing is a major issue.
 
-## Interview Questions
+## Interview Skript and Questions
+
+**Introduction:** Thank you for meeting with me today. The goal of this interview is to get your feedback on a project I have been working on about affordable housing. After you scroll through this project, I am going to ask you a couple questions about your impressions and thoughts.
+
+**Questions:**
 
 | Goal | Question |
 | ---| |---|
@@ -27,6 +31,8 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 | Flow of the Story | Did the order of the sections make sense to you? |
 | Call to Action | After scrolling through, would you be inclined to do one of the call to actions? |
 | Additional Insights | Is there anything else you would change or you think needs improvement? |
+
+**Closing:** Thank you so much for your time today. I really appreciate your willingness to speak with me.
 
 ## Interviewee Responses
 
