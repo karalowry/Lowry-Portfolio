@@ -20,7 +20,7 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 ## Interview Script and Questions
 
-**Introduction:** Thank you for meeting with me today. The goal of this interview is to get your feedback on a project I have been working on about affordable housing. After you scroll through this project, I am going to ask you a couple questions about your impressions and thoughts.
+**Introduction:** Thank you for meeting with me today. The goal of this interview is to get your feedback on a project I have been working on about affordable housing. The project is not completed, so the words on the project are not finalized. I mostly want you to get the flow of the project, what information will be presented, and what information is already presented through the visualizations. After you scroll through this project, I am going to ask you a couple questions about your impressions and thoughts.
 
 **Questions:**
 
@@ -36,6 +36,25 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 ## Interviewee Responses
 
+**Interviewee One**
+
+| Question | Response |
+| --- | --- |
+| After scrolling through, what did you like about how the project looked? What did you not like? | "I liked the color scheme and how it was consist throughout the document. I liked the graphics, especially the interactive map. I also like that it tells you what you can do about the issue. There is kind of a lot of graphs or charts that look the same, so it may be a little overwhelming. I wish there were clearer divides between sections." |
+| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? | "The housing vouchers being funded less than the other programs that exist feels weird. It seems like it is piting these fundings against each other when all of these programs are needed and need funding." |
+| Did the order of the sections make sense to you? | "Yeah. History, current standing, what are alternative options, and what you can do about it. I think the section about why we should care about housing should be more emphasized. I don't think people know how important housing is for all of these other things." |
+| After scrolling through, would you be inclined to do one of the call to actions? | "I would not call people probably, but I like the idea of connecting to other groups. I would talk to my friends about it." |
+| Is there anything else you would change or think needs improvement? | "Just the dividing of the sections, and breaking the why we should care section into a bigger part." |
+
+**Interviewee Two**
+
+| Question | Response |
+| --- | --- |
+| After scrolling through, what did you like about how the project looked? What did you not like? |  |
+| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? |  |
+| Did the order of the sections make sense to you? | |
+| After scrolling through, would you be inclined to do one of the call to actions? |  |
+| Is there anything else you would change or think needs improvement? |  |
 
 ## Interview Findings
 
