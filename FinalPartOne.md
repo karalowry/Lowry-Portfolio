@@ -1,5 +1,7 @@
 [Back to Final Project Page](FinalProject.md)
 
+[Final Part Two](FinalPartTwo.md)
+
 # Final Part One: Initial Planning
 
 This is part one of my final project. I will describe my project outline, provide some initial sketches, share the data, and discuss the methods for the final design.
