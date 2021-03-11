@@ -54,7 +54,7 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 | Question | Response |
 | --- | --- |
-| After scrolling through, what did you like about how the project looked? What did you not like? | "Love the color scheme. I like how there's a mix of icons, visualizations, and text. I feel like there is a nice balance. There were some places where it was a lot to digest like the what it would look like in the United States and how we would pay for it. Maybe break it down to one visualization for each. |
+| After scrolling through, what did you like about how the project looked? What did you not like? | "Love the color scheme. I like how there's a mix of icons, visualizations, and text. I feel like there is a nice balance. There were some places where it was a lot to digest like the what it would look like in the United States and how we would pay for it. Maybe break it down to one visualization for each." |
 | Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? | "I don't think you need the 24% twice on the people icons. I didn't realize they were interactive, so maybe make sure that people know they are interactive." |
 | Did the order of the sections make sense to you? | "Yes." |
 | After scrolling through, would you be inclined to do one of the call to actions? | "Yes. Spread the word." |
