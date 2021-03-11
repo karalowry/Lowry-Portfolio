@@ -54,11 +54,11 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 | Question | Response |
 | --- | --- |
-| After scrolling through, what did you like about how the project looked? What did you not like? |  |
-| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? |  |
-| Did the order of the sections make sense to you? | |
-| After scrolling through, would you be inclined to do one of the call to actions? |  |
-| Is there anything else you would change or think needs improvement? |  |
+| After scrolling through, what did you like about how the project looked? What did you not like? | "Love the color scheme. I like how there's a mix of icons, visualizations, and text. I feel like there is a nice balance. There were some places where it was a lot to digest like the what it would look like in the United States and how we would pay for it. Maybe break it down to one visualization for each. |
+| Looking at the data visualizations, was anything confusing? Did you understand the purpose of each visualization? | "I don't think you need the 24% twice on the people icons. I didn't realize they were interactive, so maybe make sure that people know they are interactive." |
+| Did the order of the sections make sense to you? | "Yes." |
+| After scrolling through, would you be inclined to do one of the call to actions? | "Yes. Spread the word." |
+| Is there anything else you would change or think needs improvement? | "I feel like you can work on the spacing a little bit, so that it feels like it feels like you are moving to different sections." |
 
 **Interviewee Three**
 
@@ -74,10 +74,10 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 **Interviewee One:** My first takeaway from this interview was that the flow and design of the project works for them, but they would like some more distinction between the sections. My second takeaway was that the data visualization comparing funding of Section 8 Housing Choice Vouchers to SNAP and Pell Grant might seem like I am saying those programs are overfunded, or funds should be transferred to Section 8 from those programs. My thid takeaway is that some people may not be interested in calling their representatives.
 
-**Interviewee Two:**
+**Interviewee Two:** My first takeaway is that the story is flowing well. My second takeaway is that I can reduce some redundancy on the graphics, and that not everyone will know that the Flourish visualizations are interactive. Third, the spacing of the project needs fixed.
 
 **Interviewee Three:** My first takeaway is that the map is a little confusing. My second takeaway is that the flow of the story seems to work well for everyone, and the graphics are benefical. My third takeaway is that the call to actions should have concrete steps to complete to make it more likely people will do them.
 
 # Next Steps
 
-First,  I am going to add all the text needed to complete the project. Then, I am going to try to make the sections more distinct in my project. I also am going to spend some time thinking through my visualization comparing spending on Section 8 to SNAP and Pell Grants, as well as the map. I think I just need to add some more context, but I will probably asked Interviewee One for their feedback once I make some changes. Additionally, I am going to change the first call to action to include emailing representatives instead of only calling them. I think this makes it more likely people will do it because emailing is a lot less intimidating than talking on the phone. I will also expand on the call to actions with resources to make it easier for people to complete them.
+First,  I am going to add all the text needed to complete the project. Then, I am going to try to make the sections more distinct in my project through fixing some spacing issues. I also am going to spend some time thinking through my visualization comparing spending on Section 8 to SNAP and Pell Grants, as well as the map. I think I just need to add some more context, but I will probably asked Interviewee One for their feedback once I make some changes. I am also going to look through my visualizations again and give rid of redundancy, especially in my icon visualizations. Additionally, I am going to change the first call to action to include emailing representatives instead of only calling them. I think this makes it more likely people will do it because emailing is a lot less intimidating than talking on the phone. I will also expand on the call to actions with resources to make it easier for people to complete them.
