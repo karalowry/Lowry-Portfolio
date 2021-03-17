@@ -1,10 +1,12 @@
-(Back to Final Project Page)[FinalProject.md]
+[Back to Final Project Page](FinalProject.md)
 
-(Back to Final Part Two[FinalPartTwo.md]
+[Back to Part Two](FinalPartTwo.md)
 
-(Back to Final Part One)[FinalPartOne.md]
+[Back to Part One](FinalPartOne.md)
 
 # Final Part Three: The Finished Product
+
+This part of my project contains a write-up of my project process and the link to the final product.
 
 # Project Overview
 
