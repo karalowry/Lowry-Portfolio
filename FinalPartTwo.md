@@ -2,6 +2,8 @@
 
 [Back to Part One](FinalPartOne.md)
 
+[Part Three](FinalPartThree.md)
+
 # Final Part Two: Storyboarding and User Research
 
 This is part two of my final project. I will walk through my storyboard, my user research protocol, and my next steps based on my user research.
