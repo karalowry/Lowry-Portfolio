@@ -2,7 +2,7 @@
 
 [Back to Part One](FinalPartOne.md)
 
-[Part Three](FinalPartThree.md)
+[Final Part Three](FinalPartThree.md)
 
 # Final Part Two: Storyboarding and User Research
 
