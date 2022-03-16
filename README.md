@@ -15,4 +15,4 @@ My name is Kara Lowry and my pronouns are she/her. I am a first-year student in 
 # Portfolio
 [Telling Stories with Data](TellingStorieswithDataAssignments.md)
 
-[Advanced GIS]
+[Advanced GIS](AdvancedGISAssignments.md)
