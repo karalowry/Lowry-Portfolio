@@ -5,6 +5,8 @@
 
 ## The Map
 
+![Screenshot of Map](Screenshot of Map.png)
+
 
 ## The Map Code
 
