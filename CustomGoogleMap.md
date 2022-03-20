@@ -6,13 +6,12 @@ The organization that I picked was NARAL Pro-Choice America, which fights for re
 
 ![Screenshot of NARAL's Website](WebsiteImage.png)
 
-Based on the screenshot, I used Canva and Abode to get some color palettes for the organization.
+Based on the screenshot, I used Canva and Abode to get some color palettes for the organization. Using these colors, I created a custom Google map. A screenshot of the map is below as well as the code and a summary of the feature changes. 
 
 ![Canva Color Palette](ColorPalette.png)
 
 ![Adobe Color Palette](ColorPaletteEnhanced.png)
 
-Using these colors, I created a custom Google map. A screenshot of the map is below as well as the code and a summary of the feature changes.
 
 ## The Map
 
@@ -332,4 +331,4 @@ Using these colors, I created a custom Google map. A screenshot of the map is be
 | Water |	Geometry |	Color: Teal #34B1BF |
 | Water |	Text fill |	Color: Dark Blue #2D2059 |
 
-In order to create this custom Google map, I used Google's Map Syling Wizard. I started with the template "Night" because it was a similar theme to what I wanted to create. From there, I made the above color changes using the color palettes that were generated. I checked the map at different zoom extents to make sure that the colors work at various views. 
+In order to create this custom Google map, I used Google's Map Syling Wizard. I started with the template "Night" because it was a similar theme to what I wanted to create. From there, I made the above color changes using the color palettes that were generated. I checked the map at different zoom extents to make sure that the colors work at various views. I wanted the map main colors to be the same purples as the main theme of NARAL. I then used to accent colors of yellow, pink, and blue for the accent features such as the labels, water, and roads. 
