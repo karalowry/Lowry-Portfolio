@@ -20,6 +20,8 @@ Based on the screenshot, I used Canva and Abode to get some color palettes for t
 
 ## The Map Code
 
+The map's code is linked below in JSON format. 
+
 [Map Code](Code.json)
 
 ## Feature Changes
