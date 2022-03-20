@@ -1,3 +1,5 @@
+[Link Back to Advanced GIS Portfolio](AdvancedGISAssignments.md)
+
 # Assignment: Build and Deploy a Custom Google Map for a Non-Profit Organization
 
 ## The Organization and Color Palette
