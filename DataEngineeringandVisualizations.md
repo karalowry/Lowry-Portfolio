@@ -7,12 +7,12 @@ In the second part of the assignment, using the data from the first part, I expl
 ## Screenshots from Assignment
 
 ### Part One: ArcGIS Notebooks
-![Screenshot of Notebooks](Notebooks.png)
+![Screenshot of Notebooks](Notebook.png)
 
 This screenshot shows some of the code used in the Notebook to clean and engineer the dataset. The code shown is calculating new fields.
 
 ### Part Two: Data Visualization
-![Screenshot of Map](Map.png)
+![Screenshot of Map](Maps.png)
 
 This screenshot shows the relationship between voter turnout and the percent of the population with a high school diploma by county. The screenshot is showing the scatterplot based on state and highlighting the county I selected to show that county's specific relationship. Having this pop-up feature in ArcGIS Pro is very useful for examining specific areas of interest easily.
 
