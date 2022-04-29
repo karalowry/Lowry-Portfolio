@@ -1,13 +1,13 @@
-# *Assignment: Critique by Design*
+# Assignment: Critique by Design
 
-# Critiqued Visualization
+## Critiqued Visualization
 The visualization I am critiquing is from the Prison Policy Initiative and it is titled "Black people are overrepresented on death row, while white people are underrepresented."
 
 ![Visualization from the Prison Policy Initiative entitled "Black people are overrepresented on death row, while white people are underrepresented.](Prison Policy Initiative Visualization.png)
 
 I chose this visualization because I think the information is important for people to know and undestand in order to advocate for changes in our broken criminal justice system, but when I first saw it, it took me a while to figure out what the graph was attempting to show. Since this is a slope graph, it makes it seem like the data is saying that the percentage of Black people on death row has increased over time; however, when you look at the x-axis, it shows that the first dot is actually the percent of the population each race makes up and the second dot is the percent of death row each race makes up. The slope graph is very misleading and if you do not take the time to process every element of the visualization, you may walk away with incorrect information. I think due to the audience most likely being advocates for abolishing the death penalty or for criminal justice reform, this could cause them to spread the misinformation to others and really harm the validity of the cause they are supporting. Through critiquing, I realized that this incorrect choice of visualization type really impedes the effectiveness of the visualization even though it has all the data necessary to make the point. I wanted to redesign this visualization into another data graph type in order to display the information more intuitively and hopefully allow people to understand the information more clearly. After critiquing and analyzing the visualization, I began to wireframe possible solutions.
 
-# Wireframes
+## Wireframes
 
 I sketched out three possible graph types to better communicate the data: Pie Charts, Bar Charts, and Stacked Bar Charts.
 
@@ -15,11 +15,11 @@ I sketched out three possible graph types to better communicate the data: Pie Ch
 
 Sketching the wireframe, I realized why the original creators also showed the Latinx population in the visualization. It makes the numbers much closer to equaling 100%, which makes the data more understandable and leaves the user with fewer questions. I included only the Latinx in the pie chart because it would not be as noticeable that it did not equal 100% than in the stacked bar chart where I added the category "Other" to account for the remainder of the percentage. After creating my sketches, I asked two of my friends what their thoughts were on all three sketches.
 
-# Testing the Wireframes
+## Testing the Wireframes
 
 I asked my friends four questions about each sketch, and their answers for each sketch are below.
 
-## **Pie Chart**
+### **Pie Chart**
 
 **1. Tell me what you think this is?**
 
@@ -45,7 +45,7 @@ Friend 1: "It is hard to compare White to White and Black to Black."
    
 Friend 2: "I almost want a comparison of men and women, and if there are disparities between Black women and White women."
 
-## **Bar Chart**
+### **Bar Chart**
 
 **1. Tell me what you think this is?**
 
@@ -71,7 +71,7 @@ Friend 1: "The shading is confusing. I want to compare the shaded parts to each 
   
 Friend 2: "I would put the population on the bottom, like the descriptors. So the legend would be White and Black and the axis would be population. I would also include other populations."
   
-## **Stacked Bar Chart**
+### **Stacked Bar Chart**
   
 **1. Tell me what you think this is?**
 
@@ -103,27 +103,27 @@ Friend 1: "I think the last one does the best job of comparison, but I think the
 
 Friend 2: "Maybe the bar chart because I think it is the least complicated way to compare them."
 
-# Insight From User Research
+## Insight From User Research
 
 From my friends' feedback, I learned that they get the point of the data from all three sketches. They offered some points of confusion and desire for clarity. For the pie chart, my friend made the point that it is harder to compare between races on the two pie charts. For the bar chart, it seemed they were both confused by the race being on the x-axis and the populations as the legend. The suggestion to switch those made a lot of sense, and is probably not something I would have realized on my own. For the stacked bars, they liked the detail, but the differing order was confusing as well as the labeling, which was limited due to only using a pencil. Using the feedback, I created all three charts in Flourish in order to show them a digital version and gather their opinion.
 
-# Digital Versions
+## Digital Versions
 
-## **Pie Chart**
+### **Pie Chart**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360668"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## **Bar Chart**
+### **Bar Chart**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## **Stacked Bars**
+### **Stacked Bars**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360553"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 After showing my friends the digital versions, both of them said they liked the pie chart the best, which was interesting since neither of them mentioned it when I showed them the sketches. My first friend said it could be because of the colors. My friends asked me which one I liked the best, and I said that the bar chart gets the point across with the least amount of stuff, which is a goal of effective data visualization. I think if I had to choose one to present for this class, I would show the bar chart since it does communicate the point with the least amount of stuff, but if I were to present to the general public, based on the feedback, I would show the pie charts, surprisingly.
 
-# Final Thoughts
+## Final Thoughts
 
 I chose each of these three charts because they all do a great job of comparing races and showing proportions. Each of these visualizations get the point across that Black people are disproportionately represented on death row, something the original visualization did not make very obvious. I think that either of these three options could be appropriate, depending on the audience and context. I was really surprised that my friends liked the pie chart the best, but it just goes to show that user research is very important because you do not know how others will view your work.
