@@ -10,7 +10,7 @@ My name is Kara Lowry and my pronouns are she/her. I am a second-year student in
 
 
 # What I Hope to Learn
-I am interested in learning more about how to create data visualizations and maps that are easy to understand so that I can better explain and express why we need major changes in multiple sectors of our society. I also want to use maps as a way for the public to have a more accessible way to access useful information, such as social services. Once I graduate I hope to be working in some capacity to make policies that are more inclusive and work to build up the most underserved people in our communities. I am most interested in social policy, criminal justice reform, and education policy.
+I am interested in learning more about how to create data visualizations and maps that are easy to understand so that I can better explain and express why we need major changes in multiple sectors of our society. I also want to use maps as a way for the public to have a more accessible way to access useful information, such as social services. Once I graduate I hope to be working in some capacity to make policies that are more inclusive and work to build up the most underserved people in our communities. I am most interested in social policy, affordable housing, and criminal justice reform.
 
  
 # Portfolio
