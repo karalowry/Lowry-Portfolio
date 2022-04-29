@@ -4,7 +4,7 @@
 
 [Assignment: Data Engineering and Data Visualizations](DataEngineeringandVisualizations.md)
 
-[Assignment: Prediction Models]
+[Assignment: Prediction Models](PredictionModel.md)
 
 [Assignment: Suitability Model]
 
