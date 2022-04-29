@@ -8,23 +8,23 @@
 
 This is part two of my final project. I will walk through my storyboard, my user research protocol, and my next steps based on my user research.
 
-# Storyboard
+## Storyboard
 
 I completed my storyboard by making a draft of my project on Shorthand. I imagine my final project will follow a similar structure, and for me it was easiest to just start compiling the story in a similar format I imagine the end project will be. I also upgraded my sketches to actual visualizations using Flourish, Canva, and Infogram. I think I will be able to get better responses out of my user research by having my visualizations be accurate and cleaned-up. Furthermore, once I started to dive into the data I realized some of my previous sketches were not going to work or I could not find the actual data I needed, so I had to change some of the visualizations to fit the story better.
 
 [Link to Shorthand Storyboard](https://preview.shorthand.com/eacyLRuh2Nl2lM2c)
 
-# User Research Protocol
+## User Research Protocol
 
 Below is my user research protocol, including my target audience, interview questions, interviewee responses, my takeaways from the interviews, and my next steps.
 
-## Target Audiences
+### Target Audiences
 
 The target audience for my project is people who are interested in learning more about affordable housing and/or care about alleviating poverty in America. I imagine most of my readers would not know too much about a universal housing program or the severity of the affordable housing crisis in general. In my mind, most of my readers are college-aged students or younger people who care about making a change in our society, but are not experts on every policy solution.
 
 My sample of interviewees fit this criteria. My first interviewee is a graduate student studying public health who knows access to affordable, stable housing is vital, but does not have expertise in the field. My second interviewee is a graduate student studying public policy who is interested in community development. Affordable housing is something they make work on in the future, so they want to take the time now to learn as much as they can about the subject. My third interviewee is a graduate student studying student affairs. While affordable housing does not relate directly to their field of study, this person is passionate about making a difference in our country and is aware housing is a major issue.
 
-## Interview Script and Questions
+### Interview Script and Questions
 
 **Introduction:** Thank you for meeting with me today. The goal of this interview is to get your feedback on a project I have been working on about affordable housing. The project is not completed, so the words on the project are not finalized. I mostly want you to get the flow of the project, what information will be presented, and what information is already presented through the visualizations. After you scroll through this project, I am going to ask you a couple questions about your impressions and thoughts.
 
@@ -40,7 +40,7 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 **Closing:** Thank you so much for your time today. I really appreciate your willingness to speak with me.
 
-## Interviewee Responses
+### Interviewee Responses
 
 **Interviewee One**
 
@@ -72,7 +72,7 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 | After scrolling through, would you be inclined to do one of the call to actions? | "Definitely spread the word. I like talking to people about problems. I rarely call representatives, but I should. I sometimes think it is worthless. As much as I think this topic is important, I think there are other things I identify with more so I probably would not get involve with a renter's rights group." |
 | Is there anything else you would change or think needs improvement? | "Maybe under the renter's rights group give them a way to find one in their area." |
 
-## Interview Takeaways
+### Interview Takeaways
 
 **Interviewee One:** My first takeaway from this interview was that the flow and design of the project works for them, but they would like some more distinction between the sections. My second takeaway was that the data visualization comparing funding of Section 8 Housing Choice Vouchers to SNAP and Pell Grant might seem like I am saying those programs are overfunded, or funds should be transferred to Section 8 from those programs. My thid takeaway is that some people may not be interested in calling their representatives.
 
@@ -80,6 +80,6 @@ My sample of interviewees fit this criteria. My first interviewee is a graduate 
 
 **Interviewee Three:** My first takeaway is that the map is a little confusing. My second takeaway is that the flow of the story seems to work well for everyone, and the graphics are benefical. My third takeaway is that the call to actions should have concrete steps to complete to make it more likely people will do them.
 
-# Next Steps
+## Next Steps
 
 First,  I am going to add all the text needed to complete the project. Then, I am going to try to make the sections more distinct in my project through fixing some spacing issues. I also am going to spend some time thinking through my visualization comparing spending on Section 8 to SNAP and Pell Grants, as well as the map. I think I just need to add some more context, but I will probably asked Interviewee One for their feedback once I make some changes. I am also going to look through my visualizations again and give rid of redundancy, especially in my icon visualizations. Additionally, I am going to change the first call to action to include emailing representatives instead of only calling them. I think this makes it more likely people will do it because emailing is a lot less intimidating than talking on the phone. I will also expand on the call to actions with resources to make it easier for people to complete them.
