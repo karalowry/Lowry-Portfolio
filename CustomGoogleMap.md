@@ -4,7 +4,7 @@
 
 ## The Organization and Color Palette
 
-The organization that I picked was NARAL Pro-Choice America, which fights for reproductive rights. The screenshot I used for making the color palettes is below.
+The organization that I picked was NARAL Pro-Choice America, which fights for reproductive rights. I imagine this map may be used at a local level to locate reproductive health resources and abortion clinics. The screenshot I used for making the color palettes is below.
 
 ![Screenshot of NARAL's Website](WebsiteImage.png)
 
