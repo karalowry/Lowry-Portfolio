@@ -6,13 +6,13 @@
 
 This is part one of my final project. I will describe my project outline, provide some initial sketches, share the data, and discuss the methods for the final design.
 
-# Project Outline
+## Project Outline
 
 For my final project, I want to use data visualizations to tell the story of the affordable housing crisis in America. I think this is a topic that has not gotten enough public attention it, but that has been brought to light more during the COVID-19 pandemic. I want to show the dire situation America is in, but then offer a solution that readers can advocate for to improve housing in America: a universial housing program.
 
 I was inspired to dive into affordable housing after reading "Evicted" by Matthew Desmond. I think the reason his book was so engaging was because it followed real people through their struggles with housing. So, to start my story, I will have a short introduction of a fictional family and their struggle with housing in order to illustrate the importance of the issue by tying it to a human experience. I may try to connect it to the pandemic because I think the pandemic has gotten more people aware of the affordable housing crisis in America. I want to have some sort of graphic depicting how imperative affordable and safe housing is for wellbeing and escaping the cycle of poverty, but I am not sure if it will go in the introduction or somewhere else in the story. I will then go into a very brief history and explaination of Section 8 housing vouchers to orient the reader into what the current system is like in America, but I do not want to spend too much time because I think it is a little boring if I go too in depth. This could include a simple timeline if necessary, but I am not certain on that. Next, I will show the ineffectiveness of the program with visuals. I am wanting to use visualizations to show how many eligible people actually receive vouchers and how much America spends on Section 8 vouchers compared to other programs/agencies. At this point, my readers should be unhappy with the current situation in America, and I then want to show them that there is another way. I will introduce what a universal housing program is and what it could look like in America. I am wanting to use contrasting visuals and data to compare the current system to a universal housing program using data and examples from countries that have such a program. After showing the readers what America's affordable housing system could look like, I will urge the readers to contact their representatives and ask them to support any policies expanding access to affordable housing, as well as urge them to look into how they can help low-income, rent-burdened people in their communities, whether through mutal aid funds, advocating for more affordable housing in their neighborhoods, or working with local renter's rights groups.
 
-# Initial Sketches
+## Initial Sketches
 
 I utilized Balsamiq Wireframes and pen/paper to create my initial sketches.
 
@@ -35,7 +35,7 @@ My fourth sketch is a bar chart that compares the current spending for Section 8
 
 There are other graphics that I will need to make in order to finish my story. I will need to do more research to formulate a graphic to show how important housing is for general wellbeing. I also imagine as I write my story there will be other times that I can use a simple graphic to draw attention to the main points I am trying to make. For example, when discussing the universal housing program, I could use a simple graphic showing that 100% of eligible people would receive a housing voucher under the program.
 
-# Data
+## Data
 
 I will be utilizing the United States Census Bureau's 2019 American Community Survey data regarding income levels in each state, as well as the Center on Budget and Policy Priorities' 2019 National and State Housing Data. I will use these two data sets in combination to show the ratio between how many people in each state qualify for Section 8 vouchers and how many actually receive it. I can also use the Center on Budget and Policy Priorities' data to show how many people in the United States receive any type of housing assistance, and how much funding each state gets for housing assistance. I want to show how limited our program is by showing how few qualified people actually receive assistance in each state.
 
@@ -49,7 +49,7 @@ I will also use the past few budgets of the Department for Housing and Urban Dev
 
 Throughout the project, there will be other data points that I will need to complete my story, especially regarding the universal housing program; however, these will most likely be singular data points that will come from various sources as opposed to an entire data set that I will need to work with. Since a universal housing program does not exist in the United States, I have not been able to find a data set to work with, but I have been able to find singular pieces of data that can help with my story, such as how much a universal housing program would cost the United States.
 
-# Methods and Mediums
+## Methods and Mediums
 
 To prepare for my final project, I will be completing storyboards and user research to ensure that my project tells the story I am wanting to tell. I plan to ask a few friends, who may not be as familiar with the topic, for my user research. I imagine my audience will not be extremely informed on the topic, so it will be important to gauge the opinions and outlooks of those not as knowledgable of the affordable housing crisis. I imagine I will have to go through a few iterations of sketches, and I may have to get rid of or add some that I have not even thought of yet. I will also have to continue doing research on the topic, especially on universal housing, to ensure I have enough of a grasp of the concept to properly visualize data and advocate for the program.
 
