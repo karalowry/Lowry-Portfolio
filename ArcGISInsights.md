@@ -5,9 +5,8 @@
 For this assignment, I utilized ArcGIS Insights to conduct an analysis on the DEA's pain pill database. ArcGIS Insights is a data analytics workbench that offers spatial and nonspatial analysis capabilities to explore data and deliver powerful results. It is available as a desktop application or online, and primarily works with “drag and drop” functionality. It is much cheaper and more intuitive than ArcGIS Pro; therefore, it may be a great option for small organizations.
 
 
-## Link to ArcGIS Insights Project
-
-[Project Link](https://insights.arcgis.com/#/edit/9c030ad6f3884ddaa7b68ec00c97c993)
+## ArcGIS Insights Project
+<iframe src="https://insights.arcgis.com/#/embed/2ad14144cf4046f8ab1bac27aa3ddf18" width="100%" height="100%" frameborder="0"></iframe>
 
 To start, I downloaded the data for Mingo County in West Virginia from the DEA's pain pill database. After importing the data into ArcGIS Insights, I geocoded the address data that was available for the distributors and buyers. I then used that data to create a link map between the buyers and distributors. ArcGIS Insights automatically generated a link map from the data, which is quite helpful if you have data but do not know the best way to display it. I changed the map to reflect the sum of pill dosage units. To make the map more readable, I select a basemap to complement the data and add county boundaries to be able to more clearly visualize Mingo County.  
 
