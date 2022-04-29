@@ -3,7 +3,7 @@ This is my public portfolio for the Telling Stories with Data class and Advanced
 
 # About Me
 
-![Me with my cats Azula (left) and Mai (right)](Picture1.png)
+![Me with my cats Azula (left) and Mai (right)](IMG-7681.JPG)
 
 My name is Kara Lowry and my pronouns are she/her. I am a second-year student in the Masters of Science in Public Policy and Management program. I am originally from outside of Louisville, Kentucky, but I moved to Pittsburgh in 2019 for the Coro Fellowship in Public Affairs. I have two cats named Azula and Mai that I got during quarantine so they have a little bit of separation anxiety. I love to read, cook new recipes, and watch reality TV.
 
