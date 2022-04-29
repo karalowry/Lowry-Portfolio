@@ -2,7 +2,9 @@
 
 [Assignment: Using ArcGIS Insights to Investigate the DEA's Pain Pill Database](ArcGISInsights.md)
 
-[Assignment: Spatial Data Science]
+[Assignment: Data Engineering and Data Visualizations](DataEngineeringandVisualizations.md)
+
+[Assignment: Prediction Models]
 
 [Assignment: Suitability Model]
 
