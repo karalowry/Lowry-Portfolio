@@ -1,9 +1,12 @@
 # Assignment: Prediction Models
 
-
+In this assignment, I used the Forest-Based Classification and Regression tool to predict voter turnout in Iowa by county. Through the tool, I was able to explore the variable importance in predicting voter turnout and the model's stability through prediction interval graphs. The assignment went through various ways of improving the model, such as adding and subtracting variables from the model based on variable importance levels, and increasing the number of trees and model runs.
 
 ## Screenshot from Assignment
 
+![Screenshot of Map of Iowa](Prediction.png)
+
+This screenshot shows the prediction of voter turnout by county in Iowa based off of the data that was fed to the prediction model.
 
 ## Assignment Reflections
 
