@@ -6,6 +6,6 @@
 
 [Assignment: Prediction Models](PredictionModel.md)
 
-[Assignment: Suitability Model]
+[Assignment: Suitability Model](SuitabilityModel.md)
 
 [Final Project]
