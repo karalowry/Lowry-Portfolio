@@ -4,7 +4,7 @@ In this assignment, I used the Forest-Based Classification and Regression tool t
 
 ## Screenshot from Assignment
 
-![Screenshot of Map of Iowa](Prediction.png)
+![Screenshot of Map of Iowa](PredictionMap.png)
 
 This screenshot shows the prediction of voter turnout by county in Iowa based off of the data that was fed to the prediction model.
 
