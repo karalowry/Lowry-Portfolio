@@ -7,10 +7,12 @@
 ## Project Summary
 
 *Client and Problem*
-	The client is the Democratic Party of Alleghney County. The party is in need of assistance in prioritizing where to focus canvassing efforts throughout the County. The example campaign being used is a campaign that has a limited number of volunteers; therefore, they need to know which areas to make sure volunteers are sent in order to reach the most important and fruitful voters, while also saving their volunteers’ time and energy. The example candidate is a Black, middle-class woman with a progressive platform.
+
+The client is the Democratic Party of Alleghney County. The party is in need of assistance in prioritizing where to focus canvassing efforts throughout the County. The example campaign being used is a campaign that has a limited number of volunteers; therefore, they need to know which areas to make sure volunteers are sent in order to reach the most important and fruitful voters, while also saving their volunteers’ time and energy. The example candidate is a Black, middle-class woman with a progressive platform.
 
 *Process and Final Product*
-	The final product will be a suitability model created in ArcGIS Pro with sites located throughout Allegheny County where the campaign should focus its canvassing efforts. The sites will be based on multiple criteria based on reaching voters most likely to vote for the candidate and ease of canvassing for volunteers. The final project will include this specific campaign’s suitability model as an example and an explanation of how to change the model to work for other Democratic candidates’ needs. The final product will also include a little information about each site from the example suitability model.
+
+The final product will be a suitability model created in ArcGIS Pro with sites located throughout Allegheny County where the campaign should focus its canvassing efforts. The sites will be based on multiple criteria based on reaching voters most likely to vote for the candidate and ease of canvassing for volunteers. The final project will include this specific campaign’s suitability model as an example and an explanation of how to change the model to work for other Democratic candidates’ needs. The final product will also include a little information about each site from the example suitability model.
 
 To generate a suitability model, there are some basic steps:
 
