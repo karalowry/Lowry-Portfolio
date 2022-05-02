@@ -8,4 +8,4 @@
 
 [Assignment: Suitability Model](SuitabilityModel.md)
 
-[Final Project]
+[Final Project](GISFinalProject.md)
