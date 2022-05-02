@@ -8,7 +8,7 @@
 
 *Client and Problem*
 
-The client is the Democratic Party of Alleghney County. The party is in need of assistance in prioritizing where to focus canvassing efforts throughout the County. The example campaign being used is a campaign that has a limited number of volunteers; therefore, they need to know which areas to make sure volunteers are sent in order to reach the most important and fruitful voters, while also saving their volunteers’ time and energy. The example candidate is a Black, middle-class woman with a progressive platform.
+The client is the Democratic Party of Allegheny County. The party is in need of assistance in prioritizing where to focus canvassing efforts throughout the County. The example campaign being used is a campaign that has a limited number of volunteers; therefore, they need to know which areas to make sure volunteers are sent in order to reach the most important and fruitful voters, while also saving their volunteers’ time and energy. The example candidate is a Black, middle-class woman with a progressive platform.
 
 *Process and Final Product*
 
